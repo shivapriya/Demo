@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SLA/AndroidStudioProjects/Demo/app/src/main/res/drawable/circle.xml" value="0.2703125" />
+        <entry key="..\:/Users/SLA/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_demo.xml" value="0.1" />
+        <entry key="..\:/Users/SLA/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_main.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/SLA/AndroidStudioProjects/Demo/app/src/main/res/layout/currencyinfo_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SLA/AndroidStudioProjects/Demo/app/src/main/res/layout/fragment_currency_list.xml" value="0.128125" />
+        <entry key="..\:/Users/SLA/AndroidStudioProjects/Demo/app/src/main/res/layout/fragment_currency_list_list.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/SLA/AndroidStudioProjects/Demo/app/src/main/res/layout/fragment_currency_list_viewlist.xml" value="0.17708333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
